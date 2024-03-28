@@ -1,2 +1,3 @@
 # hapi-tasks
-Task tracker
+
+[Task/Assignment](https://github.com/hapi-server/hapi-tasks/issues) tracker
